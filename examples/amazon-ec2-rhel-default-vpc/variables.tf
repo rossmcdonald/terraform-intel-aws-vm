@@ -34,6 +34,6 @@ description = "instance size to be used for the EC2 instance"
 
 type = string
 
-default = m7i.large
+default = "m7i.large"
 
 }
